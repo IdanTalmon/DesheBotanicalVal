@@ -5,6 +5,7 @@ library(reshape)
 library(readr)
 locale("he")
 library(openxlsx)
+library(usethis)
 
 ## ---------------------------------------------------------------------------------------
 remove(list = ls())
